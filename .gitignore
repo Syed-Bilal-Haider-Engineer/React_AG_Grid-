@@ -1,0 +1,11 @@
+# Node.js dependencies
+/node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package lock files (if not tracking them)
+# /Client/package-lock.json
+# /Server/package-lock.json
