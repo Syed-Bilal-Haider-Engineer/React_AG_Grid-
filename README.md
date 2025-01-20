@@ -50,7 +50,7 @@ Use the attached dataset as a CSV file as test data for this Generic DataGrid ap
 ### How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/Syed-Bilal-Haider-Engineer/BWM_IT_Internship.git)
+   git clone https://github.com/Syed-Bilal-Haider-Engineer/BWM_IT_Internship.git
    ```
 
 2. Install dependencies:
