@@ -12,8 +12,6 @@ Additionally, use React MUI for styling the application.
 ## Information
 Use the attached dataset as a CSV file as test data for this Generic DataGrid app.
 
----
-
 ## Requirements
 
 ### 1. DataGrid Component
@@ -24,12 +22,8 @@ Use the attached dataset as a CSV file as test data for this Generic DataGrid ap
 
   On clicking the **View** button, the user should move to a new page displaying the details and provide a **Back** button to go back to the DataGrid component.
 
----
-
 ### 2. Search (Use Backend API)
 - Add a **search feature** that can be used to search data and list the entries matching the search.
-
----
 
 ### 3. Filtering (Use Backend API)
 - Add a **filter feature** to filter the contents in a particular column based on criteria like:
@@ -38,14 +32,9 @@ Use the attached dataset as a CSV file as test data for this Generic DataGrid ap
   - **Starts with**
   - **Ends with**
   - **Is empty**
-  - ** etc**
-
----
 
 ### 4. Backend Service
 - Create an API (**Express.js**) that will provide the data to the DataGrid component.
-
----
 
 ### How to Run the Project
 1. Clone the repository:
