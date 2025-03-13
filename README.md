@@ -1,5 +1,4 @@
-# Aptitude Test for BMW IT Internship Position
-
+# Integrating AG Grid with React.js and Node.js
 ## Goal
 Create a **Generic DataGrid Component** using **AG Grid (React)** and integrate Backend Service.
 
